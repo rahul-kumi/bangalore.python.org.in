@@ -9,7 +9,7 @@ footer_img: '/assets/images/logo_footer.jpg'
 post_default_img: '/assets/images/posts/bangpyperscover.jpg'
 baseurl: ""
 url: "https://bangalore.python.org.in"
-# google_analytics: ''
+google_analytics: 'G-2KWW473BLG'
 # disqus: ''
 # mailchimp-list: ''
 
