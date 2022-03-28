@@ -6,8 +6,7 @@ authors:
 description: "Run up to Pycon"
 categories: [ meetup, talks]
 image:
-featured: true
-hidden: true
+featured: false
 ---
 
 
