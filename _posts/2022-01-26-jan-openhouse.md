@@ -7,7 +7,6 @@ description: "Starting the year with an openhouse"
 categories: [ meetup, talks]
 image:
 featured: true
-hidden: false
 ---
 We at Bangpypers started our year with an openhouse session on twitter spaces.
 We had quite a few joining us for an hour-long discussion around everything python.
